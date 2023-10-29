@@ -15,5 +15,8 @@ Functions:
     on()->on doing the action.
 
     css('property','hex-code')->css action will be applied.
+    fadeIn()->after click element will fade in
+    fadeOut()->after click element will fade out
+    fadeToggle()->after click element will fade out and fade in after another click.
 
 
